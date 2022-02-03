@@ -1,6 +1,24 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+
+*** README ***
+
+** Title: Less Information, More Comparison, and Better Performance: Evidence from a Field Experiment **
+** Journal: Journal of Accounting Research **
+** Authors: Henry Eyring, Patrick J. Ferguson, and Sebastian Koppers **
+** Date: March 2021 **
+
+* Summary *
+
+This repository contains the following files:
+	- code.do
+	- datasheet.pdf
+	- ReadMe.txt
+
+These files provide the code that produces the results in the main text of the paper titled "Less Information, More Comparison, and Better Performance: Evidence from a Field Experiment". The data are confidential and provided by skills.lab as described in the attached datasheet.
+
+* Working Environment *
+
+There are no specific computational requirements other than those necessary to run Stata. 
+
+* Instructions *
+
+Running code.do on the dataset described in data sheet.pdf produces the results in the main text of the paper.
